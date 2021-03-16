@@ -50,13 +50,13 @@
             <ImageButton
                 Grid.Column="1"
                 Margin="0,0,10,0"
-                Padding="10"
+                Padding="5"
                 BackgroundColor="Transparent"
                 Command="{Binding ClosePopUpCommand}"
-                HeightRequest="36"
+                HeightRequest="40"
                 HorizontalOptions="CenterAndExpand"
                 VerticalOptions="Center"
-                WidthRequest="45">
+                WidthRequest="50">
                 <ImageButton.Source>
                     <FontImageSource
                         FontFamily="{StaticResource Fontello}"
